@@ -1,0 +1,29 @@
+# Metadata for NParks Car Park Lots
+---
+Identifier: 'd31d5e6f-11a6-484e-b16f-6172269da955'
+Name: 'nparks-car-park-lots'
+Title: 'NParks Car Park Lots'
+Description: 'Car Park Lot Boundaries'
+Topics:
+  - 'Infrastructure'
+Keywords:
+  - 'NPARKS CAR PARK LOTS'
+  - 'NPARKS CARPARK LOTS'
+Publisher:
+  Name: 'National Parks Board'
+  Admin 1:
+    Name: 'Ee Binying, Geraldine'
+    Department: 'NATIONAL PARKS BOARD'
+    Email: 'geraldine_ee@nparks.gov.sg'
+Sources:
+  - 'National Parks Board'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Ad-hoc'
+Last Updated: '2018-11-07T11:11:58.757191'
+Resources:
+  -
+    Identifier: 'eb760704-e72b-4af1-8134-dc6b469e918a'
+    Title: 'NParks Car Park Lots (KML)'
+    Url: 'https://geo.data.gov.sg/nparks-carpark-lots/2016/09/19/kml/nparks-carpark-lots.kml'
+    Format: 'KML'
+    Last Updated: '2016-09-18T16:00:00'

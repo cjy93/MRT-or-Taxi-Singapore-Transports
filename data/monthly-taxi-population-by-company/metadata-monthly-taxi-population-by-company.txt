@@ -1,0 +1,51 @@
+# Metadata for Monthly Taxi Population by Company
+---
+Identifier: '9b5250d8-0379-4c9c-90a7-86c55672fefe'
+Name: 'monthly-taxi-population-by-company'
+Title: 'Monthly Taxi Population by Company'
+Description:
+  - 'Taxi supply islandwide.'
+  - ''
+Topics:
+  - 'Transport'
+Keywords:
+  - 'Public Transport'
+  - 'Taxis'
+Publisher:
+  Name: 'Land Transport Authority'
+  Admin 1:
+    Name: 'Land Transport Authority'
+    Department: 'Land Transport Authority'
+    Email: 'Datamall@LTA.gov.sg'
+Sources:
+  - 'Land Transport Authority'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Monthly'
+Coverage: '2005-01-01 to 2017-12-31'
+Last Updated: '2018-03-14T08:05:12.227594'
+Resources:
+  -
+    Identifier: '73eab944-01e6-4954-bdd3-7c798e65ed2c'
+    Title: 'Public Transport Capacity - Monthly Taxi Population'
+    Url: 'https://storage.data.gov.sg/monthly-taxi-population-by-company/resources/public-transport-capacity-monthly-taxi-population-2018-03-14T08-05-11Z.csv'
+    Format: 'CSV'
+    Coverage: '2005-01-01 to 2017-12-31'
+    Last Updated: '2018-03-14T08:05:11.780423'
+    Schema:
+      -
+        Name: 'month'
+        Title: 'Month'
+        Type: 'datetime'
+        Sub Type: 'month'
+        Format: 'YYYY-MM'
+      -
+        Name: 'company'
+        Title: 'Company'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'taxi_fleet'
+        Title: 'No. of Taxis'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of Taxis'
